@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**xunyushen/xunyushen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Profile_readme
+My personal repository
 
-Here are some ideas to get you started:
+# Xunyu Shen
+![Banner](./banner.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E57C2&width=500&lines=Hello,+I'm+Xunyu+Shen;Data+Scientist;Workaholic+%26+Enjoy+Life)](https://git.io/typing-svg)
+
+> Data Scientist｜Passionate about real-world modeling  
+> Workaholic, but still enjoy life
+
+---
+
+## Little About Me
+
+我毕业于 Johns Hopkins University，主修数据科学。在校期间我……  
+我曾在 72 Dragons 带领团队做销售预测项目……  
+
+---
+
+## Something That Is Not in My Resume
+
+疫情期间我……  
+在 RoboCup 比赛中……  
+
+---
+
+## Skills & Tools
+
+- Python / Pandas / NumPy  
+- PyTorch / TensorFlow  
+- SQL / NoSQL  
+- Git / Docker / AWS  
+
+---
