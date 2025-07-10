@@ -1,0 +1,38 @@
+<!-- banner.svg -->
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 定义渐变及动画 -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3366ff">
+        <!-- 0%→100%→0% 循环 -->
+        <animate attributeName="offset" values="0;1;0" dur="8s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#994eff">
+        <animate attributeName="offset" values="1;0;1" dur="8s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient>
+
+    <!-- 定义波浪形状裁剪路径 -->
+    <clipPath id="wave">
+      <path d="M0,120 
+               Q200,160 400,120 
+               T800,120 
+               L800,200 L0,200 Z"></path>
+    </clipPath>
+  </defs>
+
+  <!-- 绘制底色渐变 -->
+  <rect width="800" height="200" fill="url(#grad)"></rect>
+
+  <!-- 绘制波浪叠加，半透明效果 -->
+  <rect width="800" height="200" clip-path="url(#wave)" fill="url(#grad)" opacity="0.4"></rect>
+
+  <!-- 主标题 -->
+  <text x="50%" y="50" text-anchor="middle" font-size="48" font-family="sans-serif" fill="#fff">
+    HI THERE!
+  </text>
+  <!-- 副标题 -->
+  <text x="50%" y="100" text-anchor="middle" font-size="24" font-family="sans-serif" fill="#fff">
+    I am Xunyu Shen!
+  </text>
+</svg>
