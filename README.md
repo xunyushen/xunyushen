@@ -12,7 +12,6 @@ I am leading an ongoing research project on automated detection of antineutrophi
 
 ![My Photo](./c_anca.jpg)
 
-## Something That Is Not in My Resume
 
 ## Programming Languages
 
