@@ -12,7 +12,7 @@ In my past journey, I have acquired a diverse array of tools and techniques thro
 
 I am leading an ongoing research project on automated detection of antineutrophil cytoplasmic antibody (ANCA) diseases. We leverage a unique dataset of clinical patient slides from Johns Hopkins Hospital under special institutional authorization. The dataset includes high-resolution fluorescence images stained with HCHO and ethanol to highlight P-ANCA and C-ANCA patterns. I design a weakly supervised multi-instance learning pipeline that extracts patch-level features using pre-trained ResNet models. I implement top-k patch sampling and attention-based aggregation to handle limited annotations. I integrate segmentation tools such as StarDist2D and Cellpose to isolate relevant cells and improve signal quality. I apply supervised contrastive learning to pre-train the feature extractor on similar datasets. I evaluate the model using accuracy, precision, recall, F1 score, and ROC-AUC. My aim is to deliver a software tool that automates ANCA pattern detection in clinical workflows. This tool will assist pathologists by providing rapid, reliable screening—reducing workload and diagnostic variability. I plan to release a user-friendly interface and validate it in a Johns Hopkins clinical trial next year.
 ## Something That Is Not in My Resume
-![My Photo](.c-anca.jpg)
+![My Photo](./c-anca.jpg)
 
 ## Programming Languages
 
