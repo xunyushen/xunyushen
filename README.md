@@ -4,7 +4,7 @@
 
 ## Little About Me
 
-I graduated from Pennsylvania State University in 2023 (We Are!!) where I was deeply involved in the machine learning. After graduation, I decided to pursue my Master's degree at Johns Hopkins University(Go Hop!). There, I shifted my focus to deep learnig - compyter vision. Throughout my academic journey and experience in data science and machine learning, my goal is to be an engineer who designs decision-making processes (feedback -> response).
+I graduated from Pennsylvania State University in 2023 (We Are!!) where I was deeply involved in the machine learning. After graduation, I decided to pursue my Master's degree at Johns Hopkins University(Go Hop!). There, I shifted my focus to deep learnig - computer vision in pathology. Throughout my academic journey and experience in data science and machine learning, my goal is to be an engineer who designs decision-making processes (feedback -> response).
 
 ## Ongoing research
 
